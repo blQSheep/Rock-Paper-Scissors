@@ -1,0 +1,6 @@
+# create ~/.gitignore
+
+# PhpStorm
+
+# VsCode
+.vscode
